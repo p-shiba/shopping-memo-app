@@ -1,0 +1,5 @@
+.env
+# macOS の不要ファイルを無視
+.DS_Store
+# Node.js の依存フォルダ
+node_modules/
